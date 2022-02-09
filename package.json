@@ -19,7 +19,9 @@
   "homepage": "https://github.com/mxviteri/advanced-first-web-server#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "nodemon": "^1.18.10"
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
